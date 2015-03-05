@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name          WYSIWYG Enhancement
 // @namespace     http://www.powdertoy.co.uk
-// @description   Replaces default TPT WYSIWYG with the TinyMCE editor
+// @description   Replaces the default TPT WYSIWYG (TinyMCE) with a newer version of the TinyMCE editor
 // @match         *://powdertoy.co.uk/*
 // @require       http://tinymce.cachefly.net/4.1/tinymce.min.js
 // @updateURL     http://raw.githubusercontent.com/FeynmanTech/Extensions/master/TinyMCE.js
