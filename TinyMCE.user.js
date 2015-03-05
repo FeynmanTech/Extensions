@@ -5,7 +5,7 @@
 // @match         *://powdertoy.co.uk/Discussions/Thread/*
 // @match         *://powdertoy.co.uk/Groups/Thread/*
 // @require       http://tinymce.cachefly.net/4.1/tinymce.min.js
-// @updateURL     http://raw.githubusercontent.com/FeynmanTech/Extensions/master/TinyMCE.js
+// @updateURL     http://raw.githubusercontent.com/FeynmanTech/Extensions/master/TinyMCE.user.js
 // @version       0.5
 // ==/UserScript==
 
