@@ -1,19 +1,11 @@
 // ==UserScript==
-
 // @name          WYSIWYG Enhancement
-
 // @namespace     http://www.powdertoy.co.uk
-
 // @description   Replaces default TPT WYSIWYG with the TinyMCE editor
-
-// @include       http://powdertoy.co.uk/*
-
+// @match         *://powdertoy.co.uk/*
 // @require       http://tinymce.cachefly.net/4.1/tinymce.min.js
-
 // @updateURL     http://raw.githubusercontent.com/FeynmanTech/Extensions/master/TinyMCE.js
-
 // @version       0.5
-
 // ==/UserScript==
 
 /*
